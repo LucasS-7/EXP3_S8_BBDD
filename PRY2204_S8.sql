@@ -1,5 +1,5 @@
--- LUCAS SILVA - EDUARDO STEGMAIER 
--- ACTIVIDAD SUMATIVA N°3 (GRUPO N°10)
+-- LUCAS SILVA  
+-- ACTIVIDAD SUMATIVA N°3 
 
 /* =================================================================
    ================       MINIMARKET DOÑA MARTA       ==============
